@@ -1,0 +1,20 @@
+/*footer*/
+footer {
+    background: #90D4C5;
+    text-align: center;
+    padding: 5rem 0;
+}
+
+.footer-menu {
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+
+.footer-menu ul li a {
+    color: #2B7463;
+    transition: color 0.2s ease;
+}
+
+.footer-menu ul li a:hover {
+    color: #FFF;
+}
